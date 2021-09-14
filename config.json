@@ -1,0 +1,10 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "database": "node-mysql-registration-login-api"
+    },
+    "secret": "e71e1b4f-6cbd-41e4-902e-8dfbabcadf84"
+}
